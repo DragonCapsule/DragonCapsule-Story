@@ -31,5 +31,5 @@
 
 ***
 
-* [闪回1964](shan-hui-1964.md)
+* [闪回罗布泊-1964](shan-hui-luo-bu-bo-1964.md)
 * [封神榜](feng-shen-bang.md)
