@@ -25,6 +25,10 @@
 * [波斯湾魅影](long-jiao-nang-chu-xian/bo-si-wan-mei-ying.md)
 * [地外文明遗迹的崛起](long-jiao-nang-chu-xian/di-wai-wen-ming-yi-ji-de-jue-qi.md)
 
-## DOMELAND 穹顶家园
+## 号外篇1：DOMELAND-穹顶家园
 
-* [《DOMELAND》2022农历新年寄语](domeland-qiong-ding-jia-yuan/domeland2022-nong-li-xin-nian-ji-yu.md)
+* [《DOMELAND》2022农历新年寄语](hao-wai-pian-1domeland-qiong-ding-jia-yuan/domeland2022-nong-li-xin-nian-ji-yu.md)
+
+***
+
+* [闪回1964](shan-hui-1964.md)
