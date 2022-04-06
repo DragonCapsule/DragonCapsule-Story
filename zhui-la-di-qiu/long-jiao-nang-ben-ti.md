@@ -12,13 +12,11 @@ DC头顶可一个超重力场形成的穹顶空间，能够与地球环境相结
 
 
 {% hint style="info" %}
-YieldDAO将基于DC巨无霸本体宏大的故事背景，设计启动《DragonCapsule DOME LAND》去中心化虚拟土地元宇宙项目。
-
-DC的巨型化设定是构成龙胶囊元宇宙世界观的重要一步，龙胶囊持有者将成为DC DOME LAND虚拟土地元宇宙的第一批原住民。
+基于DC巨无霸本体宏大的故事背景，未来将设计启动《DOME LAND》去中心化虚拟土地元宇宙项目，DC的巨型化设定是构成龙胶囊元宇宙世界观的重要一步。
 {% endhint %}
 
 ![DragonCapsule DOME LAND](../.gitbook/assets/图片1.png)
 
-下图是DC DOMELAND 元宇宙的数据规划
+下图是 DOMELAND 元宇宙故事背景的数据规划
 
 ![](<../.gitbook/assets/图片 1.jpg>)
