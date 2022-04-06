@@ -38,7 +38,7 @@ _**DragonCapsule L English Wike**_
 
 **`注1：参与共同创作的龙胶囊Holder，请点击上方3.DC-MPC 龙胶囊共创俱乐部，向官方故事线提交你的故事，官方Twitter 将会转发你的故事，并在将来提供一定DOME积分奖励`**
 
-#### `注`**`2`**`：请到官网购买 DragonCapsule龙胶囊`
+#### `注`**`2`**`：请到官网购买 DragonCapsule 龙胶囊数字藏品`
 
 
 
