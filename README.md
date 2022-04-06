@@ -8,7 +8,9 @@ coverY: 0
 
 ### _**《DragonCapsule》English Version**_
 
-_**--**_Translation sucks, so if you are familiar with both Chinese and English, you can contact us for a better translation:（ contact us on ：https://twitter.com/YIELDDAOIO）
+Translation sucks, so If you are fluent in Chinese and English, You may contact us to make a suggestion， or join us community to create better English translations。
+
+（ contact us on ：https://twitter.com/YIELDDAOIO ）
 
 {% embed url="https://ovp-planet.gitbook.io/dragoncapsule-en-wiki" %}
 _**DragonCapsule L English Wike**_
