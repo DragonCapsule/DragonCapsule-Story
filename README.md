@@ -22,7 +22,13 @@ _**DragonCapsule L English Wike**_
 
 《DragonCapsule》具备开放式的平行宇宙多线故事情节，是由YieldDAO社群互动创作驱动的UGC故事, 《DragonCapsule》是DC创始团队讲述的第一个龙胶囊平行宇宙故事主线，欢迎对DC故事感兴趣的创作者加入_**YieldDAO DC-MPC**_（龙胶囊多维平行宇宙俱乐部）。
 
-《DragonCapsule》是《DOMELAND 穹顶家园》的前传。
+
+
+《龙胶囊传奇》是第一部真正意义上的元宇宙科幻小说，全书是三部曲框架
+
+* 1\. 龙胶囊
+* 2\. 穹顶家园
+* 3\. 熵灭 （or 最终幻想 ... 第三步名称待定）
 
 **``**
 
