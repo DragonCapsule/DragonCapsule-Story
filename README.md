@@ -1,5 +1,5 @@
 ---
-description: DragonCapsule 龙胶囊传奇
+description: 'Author: Max.Lee'
 cover: .gitbook/assets/24.png
 coverY: 0
 ---
