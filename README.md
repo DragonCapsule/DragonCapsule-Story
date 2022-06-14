@@ -44,7 +44,7 @@ _**DragonCapsule L English Wike**_
 
 ## **`官方链接：`**
 
-1\. Website: [https://yielddao.io/](https://yielddao.io)&#x20;
+1\. Website: [https://yielddao.io/](https://yielddao.io/)&#x20;
 
 2\. Twitter : [https://twitter.com/yielddaoio](https://twitter.com/yielddaoio)&#x20;
 
@@ -54,7 +54,7 @@ _**DragonCapsule L English Wike**_
 
 `注 1：参与共同创作的龙胶囊Holder，请点击上方3.DC-MPC 龙胶囊共创俱乐部，参与早期众创。`
 
-`注 2：本故事基于 10K个独一无二的龙胶囊NFT（DragonCapsule）进行创作，如果你喜欢，就去官网购买吧`**`：`**[https://yielddao.io/](https://yielddao.io)&#x20;
+`注 2：本故事基于 10K个独一无二的龙胶囊NFT（DragonCapsule）进行创作，如果你喜欢，就去官网购买吧`**`：`**[https://yielddao.io/](https://yielddao.io/)&#x20;
 
 
 
