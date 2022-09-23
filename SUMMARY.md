@@ -4,9 +4,9 @@
 
 ## 龙胶囊前序
 
-* [龙胶囊起源](long-jiao-nang-qian-xu/dc-origin.md)
-* [龙胶囊种群](long-jiao-nang-qian-xu/dc-species.md)
-* [龙胶囊档案](long-jiao-nang-qian-xu/dc-spec.md)
+* [龙胶囊起源](qian-xu-dang-an/dc-origin.md)
+* [龙胶囊种群](qian-xu-dang-an/dc-species.md)
+* [龙胶囊档案](qian-xu-dang-an/dc-spec.md)
 
 ## 0.坠落地球
 
