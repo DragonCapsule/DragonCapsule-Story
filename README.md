@@ -42,9 +42,9 @@ _**DragonCapsule L English Wike**_
 
 1\. Website: [https://yielddao.io/](https://yielddao.io/)&#x20;
 
-2\. Twitter : [https://twitter.com/](https://twitter.com/yielddaoio)www\_yielddao\_io
+2\. Twitter : h[ttps://twitter.com/www\_yielddao\_io](https://twitter.com/www\_yielddao\_io)
 
-欢迎对龙胶囊感兴趣的创作者加入_**DC-MPC**_（龙胶囊多维平行宇宙俱乐部）参与众创。可以通过官方推特Twitter 留言联系我们 [https://twitter.com/](https://twitter.com/yielddaoio)www\_yielddao\_io
+欢迎对龙胶囊感兴趣的创作者加入_**DC-MPC**_（龙胶囊多维平行宇宙俱乐部）参与众创。可以通过官方推特Twitter 留言联系我们 [https://twitter.com/](https://twitter.com/yielddaoio)[www\_yielddao\_io](https://twitter.com/www\_yielddao\_io)
 
 
 
